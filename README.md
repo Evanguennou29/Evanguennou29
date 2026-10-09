@@ -6,14 +6,14 @@ Je conçois des outils data et IA de bout en bout : préparation des données, m
 
 **Disponible à partir d’octobre 2026** pour un CDI ou des missions freelance.
 
-[CV Data Scientist (FR)](https://github.com/Evanguennou29/Portfolio/blob/main/public/cv/evan-guennou-data-scientist-fr.pdf) · [CV ML Engineer (FR)](https://github.com/Evanguennou29/Portfolio/blob/main/public/cv/evan-guennou-ml-engineer-fr.pdf) · [LinkedIn](https://www.linkedin.com/in/evan-guennou/) · [Email](mailto:evan.guennou@gmail.com)
+[Portfolio en ligne](https://evanguennou29.github.io/Portfolio/) · [CV Data Scientist (FR)](https://github.com/Evanguennou29/Portfolio/blob/main/public/cv/evan-guennou-data-scientist-fr.pdf) · [CV ML Engineer (FR)](https://github.com/Evanguennou29/Portfolio/blob/main/public/cv/evan-guennou-ml-engineer-fr.pdf) · [LinkedIn](https://www.linkedin.com/in/evan-guennou/) · [Email](mailto:evan.guennou@gmail.com)
 
 ## Expérience
 
 - **Thales, 2026 :** ingénieur en IA générative, avec des travaux sur un assistant de recherche documentaire et un agent de traitement des incidents en environnement sécurisé.
 - **CANAL+, 2025 :** data analyst et data scientist, avec un modèle de classification et de ranking pour la rétention ainsi que des analyses BI.
 
-Le [dépôt Portfolio](https://github.com/Evanguennou29/Portfolio) présente le parcours complet et les CV en français et en anglais.
+Le [portfolio en ligne](https://evanguennou29.github.io/Portfolio/) présente le parcours complet, les études de cas et les CV en français et en anglais.
 
 ## Projets sélectionnés
 
