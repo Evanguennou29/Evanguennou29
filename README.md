@@ -4,7 +4,6 @@
 
 Je conçois des outils data et IA de bout en bout : préparation des données, modèles et recherche, évaluation, API et interfaces. Mon travail public couvre la recherche hybride, le traitement de documents, les pipelines ELT et le machine learning appliqué.
 
-**Disponible à partir d’octobre 2026** pour un CDI ou des missions freelance.
 
 [Portfolio en ligne](https://evanguennou29.github.io/Portfolio/) · [CV Data Scientist (FR)](https://github.com/Evanguennou29/Portfolio/blob/main/public/cv/evan-guennou-data-scientist-fr.pdf) · [CV ML Engineer (FR)](https://github.com/Evanguennou29/Portfolio/blob/main/public/cv/evan-guennou-ml-engineer-fr.pdf) · [LinkedIn](https://www.linkedin.com/in/evan-guennou/) · [Email](mailto:evan.guennou@gmail.com)
 
